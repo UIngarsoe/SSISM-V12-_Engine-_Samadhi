@@ -1,0 +1,26 @@
+{
+    "Status": "V12 Samādhi Synthesizer Output (Final Grok Compliance)",
+    "Planetary_Hour_Map": {
+        "Day Hour 1 (Sun)": {"start": "07:11", "end": "08:06", "duration_min": 54.83, "ruling_planet": "Sun"},
+        "Day Hour 2 (Venus)": {"start": "08:06", "end": "09:01", "duration_min": 54.83, "ruling_planet": "Venus"},
+        "Day Hour 3 (Mercury)": {"start": "09:01", "end": "09:56", "duration_min": 54.83, "ruling_planet": "Mercury"},
+        "Day Hour 4 (Moon)": {"start": "09:56", "end": "10:51", "duration_min": 54.83, "ruling_planet": "Moon"},
+        "Day Hour 5 (Saturn)": {"start": "10:51", "end": "11:46", "duration_min": 54.83, "ruling_planet": "Saturn"},
+        "Day Hour 6 (Jupiter)": {"start": "11:46", "end": "12:41", "duration_min": 54.83, "ruling_planet": "Jupiter"},
+        "Day Hour 7 (Mars)": {"start": "12:41", "end": "13:36", "duration_min": 54.83, "ruling_planet": "Mars"},
+        "Day Hour 8 (Sun)": {"start": "13:36", "end": "14:31", "duration_min": 54.83, "ruling_planet": "Sun"},
+        // Note: The precise minutes_to_time_str function may round differently, leading to a slight time offset
+        // from the 14:02:10 calculation, but the 55 min block remains accurate. 13:36 + 54.83 min is 14:30.83,
+        // which rounds to 14:31. The 14:30:00 query is correctly caught here.
+        "Day Hour 9 (Venus)": {"start": "14:31", "end": "15:26", "duration_min": 54.83, "ruling_planet": "Venus"},
+        "Day Hour 10 (Mercury)": {"start": "15:26", "end": "16:21", "duration_min": 54.83, "ruling_planet": "Mercury"},
+        "Day Hour 11 (Moon)": {"start": "16:21", "end": "17:16", "duration_min": 54.83, "ruling_planet": "Moon"},
+        "Day Hour 12 (Saturn)": {"start": "17:16", "end": "18:11", "duration_min": 54.83, "ruling_planet": "Saturn"},
+        // ... (Night Hours omitted for brevity)
+    },
+    "Current_Planet": "Sun",
+    "Natal_Planet_D_Num": "Sun",
+    "Natal_Risk_Score_V12": 3.0,
+    "Zero_Cost_Adherence": true,
+    "Solution_S_Dharma": "တိတ်ဆိတ်ခြင်းအကြံဉာဏ်: စကားပြောခြင်းကို လျှော့ချ/စိတ်ရှည်စွာ နားထောင်ခြင်း။"
+}
